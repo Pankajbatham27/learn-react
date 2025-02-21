@@ -17,6 +17,7 @@ const Animation = () => {
         <Button variant="contained" onClick={() => setMove(!move)}>Move</Button>
         <Button variant="contained" onClick={() => setRotate(!rotate)}>Rotate</Button>
         <Button variant="contained" onClick={() => setRotate(!rotate)}>Rotate</Button>
+        <Button variant="contained" onClick={() => setRotate(!rotate)}>Rotate</Button>
         </div>
         
 
